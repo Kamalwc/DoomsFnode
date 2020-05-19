@@ -1,5 +1,6 @@
 {
   "name": "doomsfnode",
+  "type": "module",
   "version": "1.0.0",
   "description": "Create a read me file",
   "main": "index.js",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/Kamalwc/DoomsFnode#readme",
   "dependencies": {
-    "inquirer": "^7.1.0"
+    "inquirer": "^7.1.0",
+    "markdown-it": "^10.0.0"
   }
 }

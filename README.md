@@ -1,31 +1,27 @@
+# ReadMe.md Generator
 
-    # fdfd
+## Decription 
+* This app asks a user questions about the users Github project and creates a ReadMe.md out of it. 
 
-
-    ## Decription
-    fdfdf
-
-    ## Table of Contents
-        * item1
-        * item2
-        * item3
+## Table of Contents 
+* * [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
         
     
-    ## Installation
-    
+## Installation
+git clone git@github.com:Kamalwc/DoomsFnode.git
 
-    ## Usage
-    f
+## Usage
+run "node index.js" to initialize ReadMe.md generator
 
-    ## License
-    undefined
+## License
+Licensed under the [MIT](link to license txt here) license.
 
-    ## Contributing
-    f
+## Contributing
+* Feel free to create an issue to report bugs!
 
-    ## Tests
-    f
-
-    ## Questions
-    f
     
