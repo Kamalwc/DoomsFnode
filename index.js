@@ -19,8 +19,4 @@ var prompt = inq.prompt(questions).then(function(data){
     });
 })
 
-// add jenkins build badge to your read me 
-// rename the repo
-// finalize and submit hw 
 
-// express the classwork

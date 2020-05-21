@@ -1,7 +1,7 @@
 # ReadMe.md Generator
 
 ## Decription 
-* This app asks a user questions about the users Github project and creates a ReadMe.md out of it. 
+* This app asks a user questions about the users Github project and creates a ReadMe.md (USERREADME.md) out of it. 
 
 ## Table of Contents 
 * * [Installation](#installation)
