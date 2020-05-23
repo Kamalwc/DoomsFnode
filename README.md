@@ -17,7 +17,7 @@
 git clone git@github.com:Kamalwc/DoomsFnode.git
 
 ## Demo 
-<iframe src="https://www.youtube.com/watch?v=rvTJhsBN9us&feature=youtu.be" width="640" height="480"></iframe>
+[Click here for demo Video!](https://www.youtube.com/watch?v=rvTJhsBN9us&feature=youtu.be
 
 ## Usage
 run "node index.js" to initialize ReadMe.md generator
